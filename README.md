@@ -1,10 +1,10 @@
 # AR Business card
 
 ## Project Overview
-This was a project that was made to create some type of AR content in a web browser. I ended up making an AR business card using Aframes entity sytem, and created customs avatars and animations.
+The goal of this project that was to create some type of AR content, and host it on a web browser. I ended up making an AR business card using Aframes entity sytem, and created customs avatars and animations.
 
 ## Usage
-Either go to my website at https://jacobm311.github.io/webxr.html on a mobile device or certain laptops that have a webcam, and show the business card to the camera.
+Either go to my website at https://jacobm311.github.io/webxr.html on a mobile device or certain laptops that have a webcam, and show the business card to the camera.  
 OR
 Use this image...
 
